@@ -8,7 +8,9 @@ namespace GoogleKickStart
         {
             #region Round D
 
-            RecordBreaker.Run();
+            // RecordBreaker.Run();
+
+            AlienPiano.Run();
 
             #endregion
         }
