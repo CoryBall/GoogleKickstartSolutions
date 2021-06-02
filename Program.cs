@@ -1,4 +1,5 @@
 ﻿using GoogleKickStart._2020.Round_D;
+using GoogleKickStart._2020.Round_E;
 
 namespace GoogleKickStart
 {
@@ -10,7 +11,13 @@ namespace GoogleKickStart
 
             // RecordBreaker.Run();
 
-            AlienPiano.Run();
+            // AlienPiano.Run();
+
+            #endregion
+
+            #region Round E
+
+            LongestArithmetic.Run();
 
             #endregion
         }

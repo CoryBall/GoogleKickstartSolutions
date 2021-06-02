@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GoogleKickStart._2020.Round_D
+namespace GoogleKickStart._2020.RoundD
 {
     public static class AlienPiano
     {
